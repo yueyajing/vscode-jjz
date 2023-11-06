@@ -1,7 +1,7 @@
 {
     "name": "ycy",
-    "displayName": "超越鼓励师",
-    "description": "写代码不再孤单，有杨超越与你同在",
+    "displayName": "鼓励师",
+    "description": "写代码不再孤单，有与你同在",
     "version": "0.1.2",
     "publisher": "formulahendry",
     "icon": "logo.jpg",
@@ -12,7 +12,7 @@
         "Other"
     ],
     "keywords": [
-        "杨超越",
+        "jjz",
         "提醒",
         "鼓励"
     ],
